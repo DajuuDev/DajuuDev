@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello there, I'm David 👋</b></h1>
 </p>
 
-I AM COMPUTER ENGINEER SPECIALIST in Python focused🎓
+I AM COMPUTER ENGINEER SPECIALIST in Java focused🎓
 
 🎥 SMALL ENTREPRENEUR lover of the unknown and research linked to the great satisfaction of learning and self-improvement🙈
 
